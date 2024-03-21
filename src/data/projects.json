@@ -1,0 +1,20 @@
+[
+  {
+    "title": "HnC",
+    "imageSrc": "projects/HnC.png",
+    "description": ["Health Care Website built with a team", 
+                    "Help the users to locate the hospitals around their pin code automatically", 
+                    "Application for services is also possible"],
+    "skills": ["HTML", "CSS", "JavaScript", "NodeJs", "MongoDb", "Navigator API"],
+    "demo": "https://hnc-frontend.vercel.app/"
+  },
+  {
+    "title": "Youcisian",
+    "imageSrc": "projects/Piano.png",
+    "description": ["A platform where one can play instruments which is very much similar to playing the instrument in real life", 
+                    "You can play piano anywhere at your will just by clicking your keyboards keys",
+                    "Sounds produced are closed to real life sounds"],
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://dhruv-3241.github.io/Youcisian/"
+  }
+]

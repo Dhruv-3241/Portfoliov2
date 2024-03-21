@@ -1,0 +1,12 @@
+[
+  {
+    "role": "Developer Intern",
+    "organisation": "Doodle Health",
+    "startDate": "April, 2023",
+    "endDate": "July, 2023",
+    "experiences": [" Designed & developed web apps using ReactJS", 
+                    " Build and maintained efficient, reusable and reliable ReactJS components",
+                    " Identified and solved technical problems with team"],
+    "imageSrc": "history/DoodleHealth.jpeg"
+  }
+]

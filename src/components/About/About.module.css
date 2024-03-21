@@ -1,0 +1,145 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: rgba(12, 12, 12, 0.6);
+  border-radius: 15px;
+  padding: 73px;
+  margin-top: 129px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+  /* opacity: 0.8; */
+  mix-blend-mode: exclusion;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.aboutImage {
+  width: 35%;
+  border-radius: 70px;
+  padding-right: 25px;
+  margin-top: 30px;
+}
+
+.aboutItems {
+  color: var(--color-text);
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin-left: 45px;
+}
+
+.aboutItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 20px;
+  list-style: none;
+  padding: 15px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.466) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+}
+
+.aboutItem:hover {
+  background-size: 100% 100%;
+}
+
+.aboutItem h3 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.aboutItem p {
+  font-size: 25px;
+}
+
+
+.collegelogo {
+  width: 15%;
+  height: 15%;
+  margin-right: 20px;
+  margin-left: 2px;
+}
+
+.img{
+  width: 30%;
+  height: 30%;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    background-color: transparent;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .container h2{
+    font-size: 25px;
+    margin-right: 0px;
+  }
+
+  .content {
+    flex-direction: column;
+    width: 90%;
+  }
+
+  .aboutImage {
+    display: none;
+  }
+
+  .aboutItems {
+    margin-top: 29px;
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .aboutItem {
+    padding-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 15px;
+    margin-left: 10px;
+  }
+
+  .aboutItem h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+
+  .aboutItem p {
+    font-size: 20px;
+  }
+
+  .collegelogo{
+    width: 25%;
+    height: 25%;
+  }
+
+  .img{
+    width: 50%;
+    height: 50%;
+  }
+}
