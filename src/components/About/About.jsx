@@ -23,7 +23,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Education</h3>
               <p>
-                I am a 3rd year undergrad student studying B.Tech in Computer Science and Engineering from Indian Institute of Information Technology, Bhagalpur.
+                I am a 3rd year Under Graduate student studying B.Tech in Computer Science and Engineering from Indian Institute of Information Technology, Bhagalpur.
               </p>
               <br/>
               <p>
@@ -36,8 +36,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a Frontend Developer with experience in building responsive
+                and optimized sites.
               </p>
             </div>
           </li>
@@ -46,7 +46,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Blockchain Developer</h3>
               <p>
-                I have experience in developing smart and secure smart contracts using Solidity
+                I have experience in developing smart and secure smart contracts using Solidity.
               </p>
             </div>
           </li>

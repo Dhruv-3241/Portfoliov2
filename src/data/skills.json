@@ -16,12 +16,24 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "ExpressJS",
+    "imageSrc": "skills/ExpressJS.png"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "Solidity",
     "imageSrc": "skills/Solidity.png"
+  },
+  {
+    "title": "Ethereum",
+    "imageSrc": "skills/Ethereum.png"
+  },
+  {
+    "title": "Metamask",
+    "imageSrc": "skills/Metamask.png"
   },
   {
     "title": "Git",

@@ -4,9 +4,10 @@
     "organisation": "Doodle Health",
     "startDate": "April, 2023",
     "endDate": "July, 2023",
-    "experiences": [" Designed & developed web apps using ReactJS", 
-                    " Build and maintained efficient, reusable and reliable ReactJS components",
-                    " Identified and solved technical problems with team"],
+    "experiences": [" I used ReactJS to participate in the design and development of web applications.", 
+                    " Build and maintained efficient, reusable and reliable ReactJS components.",
+                    " Identified and solved technical problems with team.",
+                    "I also collaborated with team members to diagnose and resolve complex technical issues, ensuring uninterrupted workflow and minimizing downtime thus improved efficiency."],
     "imageSrc": "history/DoodleHealth.jpeg"
   }
 ]

@@ -34,5 +34,24 @@
       "Express"
     ],
     "demo": "https://mentor-dashboard.vercel.app/ "
+  },
+  {
+    "title": "Milestone Mapper",
+    "imageSrc": "projects/Milestone_Mapper.png",
+    "description": [
+      "Milestone Mapper is a Web3 based application that helps in project management.",
+
+      "It helps in seamlessly integrating planning and tracking of task using Web3 Wallet, use of blockchain enhances the security of user data."
+    ],
+    "skills": [
+      "React",
+      "CSS",
+      "JS",
+      "MongoDb",
+      "Express",
+      "Solidity",
+      "Web3"
+    ],
+    "demo": "https://mentor-dashboard.vercel.app/ "
   }
 ]

@@ -41,11 +41,11 @@ export const Hero = () => {
         <p className={styles.description}>
           <ul>
             <li>
-              I'm a full-stack developer with 2 years of experience using React and
+              I'm a Full-Stack Developer with 2 years of experience using React and
               NodeJS.
             </li>
             <li>
-              I'm passionate about building scalable and maintainable web applications.
+              I'm passionate about building Scalable and Maintainable web applications.
             </li>
             <li>
               I'm currently looking for new opportunities.
