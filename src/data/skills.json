@@ -1,5 +1,9 @@
 [
   {
+    "title": "C++",
+    "imageSrc": "skills/C++.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -12,8 +16,16 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Javascript",
+    "imageSrc": "skills/JS.jpg"
+  },
+  {
     "title": "Node",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "NextJs",
+    "imageSrc": "skills/nextjs.png"
   },
   {
     "title": "ExpressJS",
@@ -24,12 +36,20 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
     "title": "Solidity",
     "imageSrc": "skills/Solidity.png"
   },
   {
     "title": "Ethereum",
     "imageSrc": "skills/Ethereum.png"
+  },
+  {
+    "title": "Web3",
+    "imageSrc": "skills/web3.png"
   },
   {
     "title": "Metamask",

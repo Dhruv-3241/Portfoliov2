@@ -4,10 +4,19 @@
     "organisation": "Doodle Health",
     "startDate": "April, 2023",
     "endDate": "July, 2023",
-    "experiences": [" I used ReactJS to participate in the design and development of web applications.", 
-                    " Build and maintained efficient, reusable and reliable ReactJS components.",
-                    " Identified and solved technical problems with team.",
-                    "I also collaborated with team members to diagnose and resolve complex technical issues, ensuring uninterrupted workflow and minimizing downtime thus improved efficiency."],
+    "experiences": [" Engineered web application using ReactJS, redesigned key sections of the company's    official website contributing to an increase in user interaction.", 
+                    " Collaborated with team members to resolve complex technical issues thus minimizing downtime largely"
+                  ],
     "imageSrc": "history/DoodleHealth.jpeg"
+  },
+  {
+    "role": "Developer Intern",
+    "organisation": "Huellas Labs",
+    "startDate": "June, 2024",
+    "endDate": "August, 2024",
+    "experiences": [" Developed and launched a high-performance website for O+E Talent Agency leveraging NextJS, SCSS, and JavaScript, which improved load times and user engagement.", 
+                    " Discussed about the ERC-404 Token and its implementation in the form of an article as an consigned task."
+                  ],
+    "imageSrc": "history/HuellasLabs.jpeg"
   }
 ]
